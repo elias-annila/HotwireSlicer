@@ -11,11 +11,11 @@ Bulk of the slicing logic relating to how to position the wire relative to the w
 * rotate_edge_to_z_axis
 
 
-![Screenshot from blender addon ui](SlicerScreenshot.png "Screenshot from blender addon ui").
+![Screenshot from blender addon ui](SlicerScreenshot.png "Screenshot from blender addon ui")
 Screenshot from Blender slicer
 
-![Cutting example](CuttingExample.jpg "Actual robot").
+![Cutting example](CuttingExample.jpg "Actual robot")
 Actual robot cutting foam
 
-![Plane](Plane.jpg "Robot and a plane made with it").
+![Plane](Plane.jpg "Robot and a plane made with it")
 Robot and a plane made using it.
