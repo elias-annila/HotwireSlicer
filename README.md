@@ -16,3 +16,6 @@ Screenshot from Blender slicer
 
 ![Cutting example](CuttingExample.jpg "Actual robot").
 Actual robot cutting foam
+
+![Plane](Plane.jpg "Robot and a plane made with it").
+Robot and a plane made using it.
