@@ -12,3 +12,7 @@ Bulk of the slicing logic relating to how to position the wire relative to the w
 
 
 ![Screenshot from blender addon ui](SlicerScreenshot.png "Screenshot from blender addon ui").
+Screenshot from Blender slicer
+
+![Cutting example](CuttingExample.jpg "Actual robot").
+Actual robot cutting foam
