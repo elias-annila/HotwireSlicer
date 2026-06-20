@@ -10,3 +10,5 @@ Bulk of the slicing logic relating to how to position the wire relative to the w
 * interpolate_edges_across_quad
 * rotate_edge_to_z_axis
 
+
+![Screenshot from blender addon ui](SlicerScreenshot.png "Screenshot from blender addon ui").
