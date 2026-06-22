@@ -10,6 +10,8 @@ Bulk of the slicing logic relating to how to position the wire relative to the w
 * interpolate_edges_across_quad
 * rotate_edge_to_z_axis
 
+The robot itself did end up working alrgiht and i have used it for making a fixed wing plane. The chosen method of manipulating the workpiece rather than the more traditional guiding the wire from both ends did however introduce inherent challenges with precision and conveniance of use. Due to this issues I did conclude that a more traditional design would have been preferrable even if the shapes it would have been able to cut would have been more limited.
+
 
 ![Screenshot from blender addon ui](SlicerScreenshot.png "Screenshot from blender addon ui")
 Screenshot from Blender slicer
