@@ -6,9 +6,8 @@ Basic principle followed by the slicer is to cut one face of a polygon model at 
 
 Bulk of the slicing logic relating to how to position the wire relative to the workpiece lives in cut_wire.py, specificaly the following methods:
 
-* move_to_opposing_edge
-* interpolate_edges_across_quad
-* rotate_edge_to_z_axis
+* [move_to_opposing_edge](https://github.com/elias-annila/HotwireSlicer/blob/b5ee9f33dbeaa243193e8324dbee03a1d823ac29/hotwire_slicer/cut_wire.py#L239)
+* [rotate_edge_to_z_axis](https://github.com/elias-annila/HotwireSlicer/blob/b5ee9f33dbeaa243193e8324dbee03a1d823ac29/hotwire_slicer/cut_wire.py#L470)
 
 The robot itself did end up working alrgiht and i have used it for making a fixed wing plane. The chosen method of manipulating the workpiece rather than the more traditional guiding the wire from both ends did however introduce inherent challenges with precision and conveniance of use. Due to these issues I did conclude that a more traditional design would have been preferrable even if the shapes it would have been able to cut would have been more limited.
 
